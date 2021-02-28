@@ -1,8 +1,8 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gabriel Freire</h1>
 <h3 align="center">A Web Developer Student focused on HTML|CSS|JS</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GFraire" alt="GFraire" /> </p>
 
-- 🔭 I’m currently working on [Automalógica])
+- 🔭 I’m currently working on **Automalógica**
 
 - 📫 How to reach me **gabrielfreiresa@gmail.com**
 
