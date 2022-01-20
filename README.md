@@ -1,16 +1,39 @@
-# Hi dear 👋, I'm Gabriel Freire
-- A Web Developer Student
-- 🔭 I’m currently working on **Automalógica**
-- 🪐 Ask me about ["React", "Vue", "Figma", "JavaScript", "VisualBasic"]
-- 😜 18 years old
-- Send me an email gabrielfreiresa@gmail.com
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+## 💜 Olá, meu nome é **Gabriel Freire!**
 
-![GFraire's GitHub stats](https://github-readme-stats.vercel.app/api?username=gfraire&show_icons=true&theme=tokyonight)
-![GFraire's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=gfraire&theme=tokyonight)
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-![Profile views](https://komarev.com/ghpvc/?username=GFraire&color=333333)
+```javascript
+let me = {
+    name: "Gabriel Freire",
+    age: 18,
+    email: "gabrielfreiresa@gmail.com",
+    skils: ["Agility", "Fast to Learn", "Team work", "Patient"]
+}
+```
+
+> Tenho 18 anos, gosto de programar sites em ReactJS e VueJS. Tenho mais interesse no Frontend mas também estudo Backend.
+> Estou cursando ADS (Análise e Desenvolvimento de Sistemas) na FATEC.
+> 
+🔭 Atualmente estou trabalhando na Automalógica.
+
+## 🚀 Linguagens e Ferramentas:
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="MySQL"/></code>
+
+## **GitHub Estatísticas**
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GFraire&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=GFraire&show_icons=true&theme=dracula&line_height=27" alt="GFraire github stats"/>
+</a>
